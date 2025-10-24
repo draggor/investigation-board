@@ -434,7 +434,7 @@ async function createNote(noteType) {
         },
       },
       "flags.core.sheetClass": "investigation-board.CustomDrawingSheet",
-      "ownership": { default: 3 },
+      "ownership": { default: 4 },
     },
   ]);
 
